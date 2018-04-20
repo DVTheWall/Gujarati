@@ -1,0 +1,60 @@
+﻿@font-face
+{
+    font-family: 'KRISHNA';
+    src: url('../fonts/KRISHNA.eot');
+    src: local('☺'), url('../fonts/KRISHNA.woff') format('woff'), url('../fonts/KRISHNA.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face
+{
+    font-family: 'KRISHNA';
+    src: url('../fonts/KRISHNA.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/KRISHNA.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/RISHNA.woff') format('woff'), url('../fonts/KRISHNA.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.clsWelcome {
+    font-size: 24px;
+    color: hsl(138, 22%, 56%);
+    padding: 5px;
+}
+.clsWelcomeText {
+    line-height: 24px;
+    text-align: justify;
+    padding: 5px;
+    font-size: 18px;
+    font-family: KRISHNA;
+    
+}
+.title_eng {
+    font-size: 36px !important;
+    color: hsl(138, 22%, 56%);
+    padding: 10px;
+    line-height: 24px;
+    font-family: Arial;
+}
+.text {
+    line-height: 24px;
+    text-align: justify;
+    padding: 5px;
+    font-size: 18px;
+    font-family: KRISHNA;
+    
+}
+.text_Eng_Color {
+    padding: 10px;
+    color: hsl(132, 28%, 44%);
+    line-height: 24px;
+    text-align: justify;
+    font-size: 14px;
+    font-family: Arial;
+}
+.text_Eng {
+    padding: 10px;
+    
+    line-height: 24px;
+    text-align: justify;
+    font-size: 14px;
+    font-family: Arial;
+}

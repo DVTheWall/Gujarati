@@ -1,0 +1,124 @@
+﻿{
+
+	"Result": [{
+		"ID": "1",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Activity Zone",
+		"DESC": "hHaai>llaasanap saaYai baiDPmanTna rmatap yaai:9 nap Pva–aPYa>napAai.\nvata>maanaVawgamaa= svasawrxaa A=taga>ta Aana sa=sYaanaa kma>caarpAai &ara taalapma laitap Pva–aPYa>napAa",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/Activity1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/Activity2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "2",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Language Lab",
+		"DESC": "lai=gvaij laibamaa= ØSVa - +avVa maayVama &ara km%VaWTrnap maddYap BaaHaanaw= Xaana maiLavatap Pva–aPYa>napAai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/Language1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/Language2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "3",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Research Room",
+		"DESC": "Prsa>calaibamaa= enTrnaiTnaa maayVamaYap PvaPvaya PvaHaVaainai lagatap maaPhtapnaw= sa=Saaiyana krtaa PSaxakai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/Research1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/Research2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "4",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Science Lab",
+		"DESC": "ZvaPvaXaananap 5/VaaigaSaaLaamaa= Avanavaa 5/Vaaigaainaw= 5/aVaaiPgak rptai Avalaaikna krp sa=Saaiyana krtap Pva–aPYa>napAai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/BiologyLab1.png",
+		"DESC1": "BaaIPtakPvaXaananap 5/VaaigaSaaLaamaa= Avanavaa 5/Vaaigaainaw= 5/aVaaiPgak rptai Avalaaikna krp sa=Saaiyana krtap Pva–aPYa>napAai",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/Physics2.png",
+		"DESC2": "rsaaVaNaPvaXaananap 5/VaaigaSaaLaamaa= PvaPvaya 5/karnaa rsaaVaNaainaai u5Vaaiga krp Avanavaa 5/Vaaigaainaw= 5/aVaaiPgak rptai Avalaaikna krp sa=Saaiyana krtap Pva–aPYa>napAai",
+		"IMAGE_PATH2": "http://www.vngodhani.org/Gujrati/Image/Facilities/Chemistry1.png"
+	}, {
+		"ID": "5",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Educational Zone",
+		"DESC": "A–tana TiknaailaaiZnaa Vawgamaa= ØSVa Anai +avVa u5krNaai &ara smaaT> baaiD>naa maayVamaYap PvaPvaya PvaHaVaainaw= Xaana maiLavatap Pva–aPYa>napAai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/Educational1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/Educational2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "6",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Extra Activity",
+		"DESC": "maaTpkama Anai 5i5r kTp=ga jivap eMar 5/vaPta &ara 5aitaanap saj>na SaPktanai Pvaksaavatap Pva–aPYa>napAai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/ExtraActivity1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/ExtraActivity2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "7",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Library",
+		"DESC": "laaVaba/irpnaa Saa=ta Anai naprva vaataavarNamaa= saaPhtVanaw= rsa5ana krtap Pva–aPYa>napAai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/Lib1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/Lib2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "8",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Sports Club",
+		"DESC": "Satar=j, kirma,Tibala Tinapsa jivap PvaPvaya rmataai rmapnai cahira 5r AnaaiKaa Psmatanaa Baava saaYai Aana=dnap AnawBaWPtanaai Ahisaasa 5/gaT krtap yaairNa-9 nap Pva–aPYa>napAai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/Game1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/Game2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "9",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Computer Lab",
+		"DESC": "Pvaksataa jtaa Vawgamaa= km%VaWTr TiknaailaaiZnaw= AyVaVana krtap Pva–aPYa>napAai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/Computer1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/Computer2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "10",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Drawing Room",
+		"DESC": "PcaFakLaamaa= 5/avapNVataa yaravap mana5sa=d PcaFa dairp D^ai=ega 5i5r 5r manaairmVa r=gaai &ara PcaFanai u5saavatap Pva–aPYa>napAai		",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/Drowing1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "11",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Music Room",
+		"DESC": "sa=gaptanaa Avanavaa ragaainai vaaPj=Fanaa saYavaari saWr Anai taalanaa maayVama &ara gaaVana Anai vaadna krtap Pva–aPYa>napAai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/Music1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/Music2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "12",
+		"SCHOOL_CODE": "1",
+		"TITLE": "Prayer Ground",
+		"DESC": "5/aYa>naa saBaamaa= 5raixa  rptai  e|varnaw=  saamap%Va  AnawBavap  5/Bawnaai  5/aYa>naa &ara saaxaatkar krtap Pva–aPYa>napAai",
+		"IMAGE_PATH": "http://www.vngodhani.org/Gujrati/Image/Facilities/PlayGround1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/Gujrati/Image/Facilities/PlayGround2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}]
+}

@@ -1,0 +1,133 @@
+﻿{
+	"Result": [{
+		"ID": "1",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Activity Zone",
+		"DESC": "NCC Is Offered with a Motto of ALL ROUND DEVELOPMENT. Basic Military Training is given to the students to make then feel and Bring them “OUT OF COMFORT Zone.“",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Activity1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Activity2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "2",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Language Lab",
+		"DESC": "The Language Laboratory is an audio-visual installation used as an aid in modern language teaching.Here the students are given individual hard wire Ear-Head phones and learn the language with clean pronunciation and exact meaning.Listening and Reading skills are also developed.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Language1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Language2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "3",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Research Room",
+		"DESC": "“Creative work undertaken in order to increase stock of knowledge and to implement new applications for the benefit of students“<br>At Research Room, teachers make power point presentations, find out latest inventions, knowledge, current news and much more, to share with students.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Research1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Research2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "4",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Science Lab",
+		"DESC": "<b>Physics Laboratory : </b> In physics lab students learn to practice the activities of scientists – asking Questions, performing procedures, collecting data, analyzing data and their exploring answers to new Questions!",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Physics1.png",
+		"DESC1": "<b>Chemistry Laboratory : </b> The function of chemistry lab is to ensure technical & scientific support for the users to perform experiments related with chemicals, with utmost safety, observing chemical reactions and handling glass apparatus.",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Chemistry1.png",
+		"DESC2": "<b>Biology Laboratory : </b>Biology is hands of science where in Biology Lab is used for understanding of various Anatomical & Botanical specimens. Dissection of plants, observation under microscope, preparation of slides with basic techniques, are some of the activities carried on in Biology Lab.",
+		"IMAGE_PATH2": "http://www.vngodhani.org/English/Image/Facilities/BiologyLab1.png"
+	}, {
+		"ID": "5",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Educational Zone",
+		"DESC": "Students study in inbuilt High Technology Classes with the Interactive Boards.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Educational1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Educational2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "6",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Extra Activity",
+		"DESC": "Students enjoy doing various types of activities in groups. Team work is promoted.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/ExtraActivity1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/ExtraActivity2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "7",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Library",
+		"DESC": "Information is the first step to gain knowledge and library is the key place in the new information age of morden society.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Lib1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Lib2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "8",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Sports Club",
+		"DESC": "So continue the excellent tradition of sound mind in a healthy body, we provide many indoor & outdoor physical activities to our students. Our aim is not to create only Champions, but to motivate a healthy enjoyment of physical activity , team spirit and to build up stamina level",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Game1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Game2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "9",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Computer Lab",
+		"DESC": "Spacious Computer lab empowered and equipped with stand alone PC with Core I3 Processor ,XP version enabling the students to explore their Creativity.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Computer1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Computer2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "10",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Drawing Room",
+		"DESC": "Drawing is one of major form of expression of visual arts. Drawing is taught either by DRY Or WET Media. Drawing is a practice. It is about noticing relationship between things and making comparisons.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Drowing1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Drowing2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "11",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Dance Room",
+		"DESC": "Here Psychotherapeutic use of movement and dance to support intellectual, emotional and motor functions of the body.It loops as Correlation between movement and emotions.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Dance1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Dance2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "12",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Music Room",
+		"DESC": "Music facilitates learning other subjects. A music rich experience for children of singing , listening and moving is really bringing a Serious benefit to children as they progress into more formal learning.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/Music1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/Music2.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}, {
+		"ID": "13",
+		"SCHOOL_CODE": "2",
+		"TITLE": "Prayer Ground",
+		"DESC": "A high quality School assembly is an important aspect of schools curriculum. It powerfully nurtures intrapersonal intelligence.<br> Its potential is to nurture a positive school ethos that Care for the self, others and pursuit of all forms of excellence.",
+		"IMAGE_PATH": "http://www.vngodhani.org/English/Image/Facilities/PlayGround1.png",
+		"DESC1": "",
+		"IMAGE_PATH1": "http://www.vngodhani.org/English/Image/Facilities/PlayGround1.png",
+		"DESC2": "",
+		"IMAGE_PATH2": ""
+	}]
+}
